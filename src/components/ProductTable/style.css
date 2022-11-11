@@ -1,0 +1,15 @@
+/* table {
+  background-color: rgb(60, 116, 199);
+}
+
+.category-row {
+  background-color: rgb(180, 148, 107);
+}
+
+.product-row {
+  background-color: aquamarine;
+} */
+
+td {
+  padding: 5px;
+}
